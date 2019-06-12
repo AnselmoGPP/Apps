@@ -1,0 +1,8 @@
+
+PROJECT(Roman_converter)
+
+ADD_EXECUTABLE(${PROJECT_NAME}
+	${CMAKE_CURRENT_SOURCE_DIR}/src/Romanscalc.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/src/Romans.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/src/Romans.h
+)

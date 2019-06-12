@@ -1,0 +1,6 @@
+
+PROJECT(Fizz_Buzz_test)
+
+ADD_EXECUTABLE(${PROJECT_NAME} 
+	${CMAKE_CURRENT_SOURCE_DIR}/src/FizzBuzz.cpp
+)

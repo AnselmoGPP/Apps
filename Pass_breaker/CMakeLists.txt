@@ -1,0 +1,7 @@
+
+PROJECT(Pass_breaker)
+
+ADD_EXECUTABLE(${PROJECT_NAME} 
+	${CMAKE_CURRENT_SOURCE_DIR}/src/breaker.cpp
+)
+
