@@ -1,6 +1,0 @@
-
-PROJECT(Compute_change)
-
-ADD_EXECUTABLE(${PROJECT_NAME} 
-	${CMAKE_CURRENT_SOURCE_DIR}/src/Change.cpp
-)

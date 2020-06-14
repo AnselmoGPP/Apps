@@ -5,9 +5,7 @@ inclusive. A valid Sudoku board has the following properties:
 - Each row contains no duplicate digits
 - Each column contains no duplicate digits
 - Each 3 x 3 sub-grid contains no duplicate digits (there are 9 sub-grids)
-For this challenge, you will be given a 9 x 9 Sudoku board where every cell is populated with a digit
-from 1 to 9. For a 9 x 9 board, there are 9 sub-grids, each 3 x 3 in size. Write a program that
-determines whether each input board is valid.
+A Sudoku board has 9 x 9 cells, each populated with a digit from 1 to 9. For a 9 x 9 board, there are 9 sub-grids, each 3 x 3 in size. This program determines whether each input board is valid.
 
 Input:
 Your program should read lines from standard input. Each line contains a comma delimited list of

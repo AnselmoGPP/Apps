@@ -2,7 +2,7 @@
 
 This application allows to easily know the numerical values of the 8-bit ASCII character set.
 
-This console application is useful to know fast the value of characters (type char or unsigned char variables). This programs deals with the 8-bits ASCII character set, which contains 256 characters in total (2^8 = 256). There are many options in the main menu:
+This console application is useful to quickly get to know the value of characters (type char or unsigned char variables). This programs deals with the 8-bits ASCII character set, which contains 256 characters in total (2^8 = 256). There are many options in the main menu:
 
 -Show a list of all char type elements, including their conrresponding numerical values as char literals.
 -Show a list of all char type elements, including their conrresponding numerical values as unsigned char literals.
